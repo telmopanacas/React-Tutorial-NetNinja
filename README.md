@@ -29,7 +29,7 @@ Throughout this project some key learning points are:
 
 ### Home Page
 
-![Home Page](screenshots\Create New Blog.png)
+![Home Page](https://github.com/telmopanacas/React-Tutorial-NetNinja/blob/master/screenshots/Create%20New%20Blog.png)
 
 
 ### Post Details
