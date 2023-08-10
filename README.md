@@ -33,11 +33,11 @@ Throughout this project some key learning points are:
 
 
 ### Post Details
-![Post Details](screenshots\Create New Blog.png)
+![Post Details](https://github.com/telmopanacas/React-Tutorial-NetNinja/blob/master/screenshots/Post%20Details.png)
 
 
 ### Create New Post
-![Create New Post](https://github.com/telmopanacas/React-Tutorial-NetNinja/blob/master/screenshots/Post%20Details.png)
+![Create New Post](https://github.com/telmopanacas/React-Tutorial-NetNinja/blob/master/screenshots/Create%20New%20Blog.png)
 
 
 
