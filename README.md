@@ -1,3 +1,46 @@
+# Full Modern React Tutorial - [Net Ninja](https://www.youtube.com/@NetNinja)
+
+This repository contains the final product of this [tutorial playlist](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1).
+
+
+The original respository can be found [here](https://github.com/iamshaunjp/Complete-React-Tutorial).
+
+## Project Goal
+
+By the final lesson the goal is to have a simple functioning blog where you can create posts about any subject, and see all the posts made.
+
+
+## Learning Topics
+
+Throughout this project some key learning points are:
+- What are and how to make components.
+
+- How to use useState hook.
+- What are props and how to use them.
+- How to use useEffect hook.
+- Using the fetch function to fetch data.
+- Creating your own hooks.
+- How to handle routes.
+- Making POST requests with the fetch function.
+- How to use useHistory hook.
+
+
+## Screenshots of final product
+
+### Home Page
+
+![Home Page](screenshots\Create New Blog.png)
+
+
+### Post Details
+![Post Details](screenshots\Create New Blog.png)
+
+
+### Create New Post
+![Create New Post](screenshots\Create New Blog.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,13 +49,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npx json-server --watch data/db.json --port 8000`
+
+This will install the package json-server wich will serve as a REST API where we will store our posts.
 
 ### `npm test`
 
